@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport", "Airport.csproj", "{E1733E78-23D0-4A0D-9810-55B8908136BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestUsing", "..\MyLibs\TestUsing.csproj", "{541DF583-AC7B-4E73-9638-865E95870BBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibsUru", "..\MyLibsUru\MyLibsUru.csproj", "{A5E64F36-A5D7-4A20-86AB-CE02CD789F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1733E78-23D0-4A0D-9810-55B8908136BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1733E78-23D0-4A0D-9810-55B8908136BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1733E78-23D0-4A0D-9810-55B8908136BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1733E78-23D0-4A0D-9810-55B8908136BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541DF583-AC7B-4E73-9638-865E95870BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541DF583-AC7B-4E73-9638-865E95870BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541DF583-AC7B-4E73-9638-865E95870BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541DF583-AC7B-4E73-9638-865E95870BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E64F36-A5D7-4A20-86AB-CE02CD789F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E64F36-A5D7-4A20-86AB-CE02CD789F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E64F36-A5D7-4A20-86AB-CE02CD789F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E64F36-A5D7-4A20-86AB-CE02CD789F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83DFE4F3-806E-459E-879C-00CE9748D8FA}
+	EndGlobalSection
+EndGlobal
